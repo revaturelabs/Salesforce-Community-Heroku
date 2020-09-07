@@ -7,7 +7,7 @@
     "env": {
         "SF_LOGIN_URL": {
             "description": "Salesforce authentication domain",
-            "value": "https://test.salesforce.com/",
+            "value": "https://login.salesforce.com/",
             "required": true
         },
         "SF_USERNAME": {

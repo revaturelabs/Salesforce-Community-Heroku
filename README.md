@@ -17,11 +17,10 @@ Click on this button and follow the instructions to deploy the app:
 Create a `.env` file at the root of the project:
 
 ```
-SF_LOGIN_URL='https://test.salesforce.com'
+SF_LOGIN_URL='https://login.salesforce.com'
 SF_USERNAME='YOUR_SALESFORCE_USERNAME'
 SF_PASSWORD='YOUR_SALESFORCE_PASSWORD'
 SF_TOKEN='YOUR_SALESFORCE_SECURITY_TOKEN'
-SF_NAMESPACE=''
 QUIZ_API_KEY='YOUR_QUIZ_API_KEY'
 COLLECT_PLAYER_EMAILS=false
 ```
