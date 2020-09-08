@@ -1,4 +1,9 @@
-# Multiplayer quiz app built on Salesforce technology (player app)
+# Salesforce App
+
+This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
+
+
+## Multiplayer quiz app built on Salesforce technology (player app)
 
 ℹ️ Please refer to the [quiz host app](https://github.com/fostive/quiz-host-app) for documentation.
 
@@ -21,9 +26,10 @@ SF_LOGIN_URL='https://test.salesforce.com'
 SF_USERNAME='YOUR_SALESFORCE_USERNAME'
 SF_PASSWORD='YOUR_SALESFORCE_PASSWORD'
 SF_TOKEN='YOUR_SALESFORCE_SECURITY_TOKEN'
-SF_NAMESPACE=''
 QUIZ_API_KEY='YOUR_QUIZ_API_KEY'
 COLLECT_PLAYER_EMAILS=false
 ```
 
 Run the project with `npm start`
+
+## 
