@@ -3,12 +3,12 @@
     <form onsubmit={handleSubmit} autocomplete="off">
         <div>
             <ui-input
-                label="Nickname"
+                label="Enter your Saleforce username or a Nickname."
                 onchange={handleNicknameChange}
                 readonly={isRegistering}
                 is-valid={isNicknameValid}
                 error={nicknameError}
-                max-length="20"
+                max-length="40"
                 autocomplete="nickname"
             >
             </ui-input>
